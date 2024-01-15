@@ -1,3 +1,3 @@
 # Pragati_134
-This is my first repository
-This is section C.
+Hey!! Pragati Here>>
+Hello!! How are you??
